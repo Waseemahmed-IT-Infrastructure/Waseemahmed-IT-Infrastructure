@@ -5,11 +5,13 @@
 
 ### Networking | Virtualization | Windows Server | Cloud | Security
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking-0F766E?style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-vSphere-2563EB?style=for-the-badge)
-![Windows Server](https://img.shields.io/badge/Windows-Server-1D4ED8?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active-Directory-334155?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-0F766E?style=for-the-badge&logo=cisco&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-vSphere-2563EB?style=for-the-badge&logo=vmware&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Server-1D4ED8?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Administrator-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-IT_Support-1D4ED8?style=for-the-badge&logo=ibm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-334155?style=for-the-badge&logo=github&logoColor=white)
 
 **IT Infrastructure | Enterprise Networking | Systems Administration**
 
@@ -25,7 +27,7 @@ I am an IT Infrastructure Specialist with experience in enterprise networking, W
 
 My work includes infrastructure administration, technical troubleshooting, system deployment, endpoint management, monitoring and documentation.
 
-This GitHub portfolio contains technical guides, configuration examples, administration notes and troubleshooting procedures related to technologies I work with.
+This GitHub portfolio contains technical guides, illustrative configuration examples, administration notes and troubleshooting procedures related to technologies I work with.
 
 My focus is on reliable infrastructure, practical problem-solving, secure administration and continuous technical development.
 
@@ -55,11 +57,11 @@ My focus is on reliable infrastructure, practical problem-solving, secure admini
 
 <div align="center">
 
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-2563EB?style=for-the-badge)
-![Azure AZ104](https://img.shields.io/badge/Microsoft_Azure-AZ--104-0078D4?style=for-the-badge)
-![Google Administrator](https://img.shields.io/badge/Google-Administrator-4285F4?style=for-the-badge)
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-2563EB?style=for-the-badge&logo=cisco&logoColor=white)
+![Azure AZ104](https://img.shields.io/badge/Microsoft_Azure-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Administrator](https://img.shields.io/badge/Google-Administrator-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-![IBM IT Support](https://img.shields.io/badge/IBM-IT_Support-1D4ED8?style=for-the-badge)
+![IBM IT Support](https://img.shields.io/badge/IBM-IT_Support-1D4ED8?style=for-the-badge&logo=ibm&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network-Security-0F766E?style=for-the-badge)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-Admin_Training-334155?style=for-the-badge)
 ![Software Testing](https://img.shields.io/badge/Software-Testing-475569?style=for-the-badge)
@@ -78,7 +80,7 @@ My focus is on reliable infrastructure, practical problem-solving, secure admini
 | SentinelOne Admin Training | Endpoint security administration |
 | Software Testing | Software testing and quality assurance |
 
-The programs listed above represent my certifications and professional training. Individual credential status and verification details can be provided where applicable.
+The programs listed above represent certifications and professional training. Individual credential status and verification details can be provided where applicable.
 
 ---
 
