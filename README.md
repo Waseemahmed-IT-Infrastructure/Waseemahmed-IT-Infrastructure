@@ -307,6 +307,20 @@ My technical documentation covers troubleshooting and operational procedures in 
 
 ---
 
+---
+
+## IT Infrastructure Video Demonstration
+
+A video showcasing my general IT infrastructure knowledge and technical work.
+
+<div align="center">
+
+[![Watch My Video](https://img.shields.io/badge/WATCH_MY_VIDEO-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waseemahmed-IT-Infrastructure/Waseemahmed-IT-Infrastructure/releases/download/video-demo-v1/IT-Infrastructure-Overview.mp4)
+
+</div>
+
+---
+
 # GitHub Statistics & Activity
 
 <div align="center">
