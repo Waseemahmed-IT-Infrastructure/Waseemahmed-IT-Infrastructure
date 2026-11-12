@@ -107,6 +107,19 @@ This GitHub portfolio contains technical documentation, illustrative configurati
 **Note:** These entries describe certification-related study and professional training areas. They do not imply that a certification exam has been passed unless separately verified.
 
 ---
+## IT Infrastructure Video Demonstration
+
+A video showcasing my general IT infrastructure knowledge and technical work.
+
+<div align="center">
+
+
+
+https://github.com/user-attachments/assets/686bdf70-18d6-41bf-8886-ed3f55aa354c
+
+
+
+</div>
 
 # Featured Infrastructure Projects
 
@@ -309,15 +322,6 @@ My technical documentation covers troubleshooting and operational procedures in 
 
 ---
 
-## IT Infrastructure Video Demonstration
-
-A video showcasing my general IT infrastructure knowledge and technical work.
-
-<div align="center">
-
-[![Watch My Video](https://img.shields.io/badge/WATCH_MY_VIDEO-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waseemahmed-IT-Infrastructure/Waseemahmed-IT-Infrastructure/releases/download/video-demo-v1/IT-Infrastructure-Overview.mp4)
-
-</div>
 
 ---
 
